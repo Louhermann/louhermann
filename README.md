@@ -1,6 +1,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Feedback badge](https://img.shields.io/badge/Feedback-appreciated-<#7f00ff>.svg)](https://shields.io/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-[![Feedback badge](https://img.shields.io/badge/<Feedbacks>-<appreciated>-<#7f00ff>.svg)](https://shields.io/)
+
 
 ### Welcome to my Github account ! 👋
 
